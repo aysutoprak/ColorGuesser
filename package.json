@@ -1,7 +1,7 @@
 {
   "name": "color_guesser",
   "version": "0.1.0",
-  "homepage": "https://aysutoprak.github.io/colorguesser",
+  "homepage": "https://aysutoprak.github.io/ColorGuesser/",
   "private": true,
   "dependencies": {
     "@stitches/react": "^1.2.8",
