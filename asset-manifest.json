@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ColorGuesser/static/css/main.3419db28.css",
+    "main.js": "/ColorGuesser/static/js/main.fbba6fda.js",
+    "static/js/787.fef87ae9.chunk.js": "/ColorGuesser/static/js/787.fef87ae9.chunk.js",
+    "index.html": "/ColorGuesser/index.html",
+    "main.3419db28.css.map": "/ColorGuesser/static/css/main.3419db28.css.map",
+    "main.fbba6fda.js.map": "/ColorGuesser/static/js/main.fbba6fda.js.map",
+    "787.fef87ae9.chunk.js.map": "/ColorGuesser/static/js/787.fef87ae9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3419db28.css",
+    "static/js/main.fbba6fda.js"
+  ]
+}
